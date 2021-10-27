@@ -1,0 +1,30 @@
+h3
+{
+    font-size:25px !important;
+    float:none;
+}
+
+.btn-success:hover
+{
+    background-color: turquoise;
+}
+
+canvas{
+    animation-name:unknown;
+    animation-duration:4s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes unknown{
+    from{box-shadow: 1px 1px 50px rgb(5, 255, 5);}
+    to{box-shadow: 1px 1px 50px rgb(233, 91, 114);}
+    to{box-shadow: 1px 1px 50px rgb(2, 120, 136);}
+    to{box-shadow: 1px 1px 50px rgb(224, 248, 3);}
+    to{box-shadow: 1px 1px 50px rgb(255, 0, 0);}
+}
+
+button
+
+{
+    float:none;
+}
