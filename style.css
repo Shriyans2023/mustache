@@ -4,11 +4,6 @@ h3
     float:none;
 }
 
-.btn-success:hover
-{
-    background-color: turquoise;
-}
-
 canvas{
     animation-name:unknown;
     animation-duration:4s;
@@ -28,3 +23,4 @@ button
 {
     float:none;
 }
+
